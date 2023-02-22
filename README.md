@@ -1,16 +1,17 @@
 # blood_donation_firebase
 
-A new Flutter project.
+A new Flutter project with Firebase CRUD (Create Read Update Delete) Operation
 
-## Getting Started
+## UI Screenshot
 
-This project is a starting point for a Flutter application.
+![](Screenshot/Screen.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## Packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+cloud_firestore: ^4.4.3 [Click Here](https://pub.dev/packages/cloud_firestore)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+firebase_core: ^2.7.0 [Click Here](https://pub.dev/packages/firebase_core)
+
+easy_splash_screen: ^1.0.4 [Click Here] https://pub.dev/packages/easy_splash_screen
+
+google_fonts : [Click Here](https://pub.dev/packages/google_fonts)
